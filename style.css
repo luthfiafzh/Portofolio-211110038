@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: rgb(230, 170, 209)
+  }
+
+nav{
+    background-color: rgb(16, 88, 151);
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
